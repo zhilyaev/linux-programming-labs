@@ -29,3 +29,7 @@
 - [x] [Вывод ip адресов по hostname](get_ips)
 - [ ] [UDP log service]()
 - [ ] [TCP string sorter]()
+
+### Прочее
+- [x] [Разбор аргументов командной строки `getopt_long`](getopt)
+
