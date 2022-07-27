@@ -4,6 +4,7 @@
 
 Решение представлено на `c` и `golang`.
 
+![cert](https://stepik.org/certificate/f85e11e468350297b25891b1e28e0e0e9440bf89.png?resolution=high)
 
 ## Содержание
 
