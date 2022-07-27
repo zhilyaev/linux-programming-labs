@@ -29,7 +29,7 @@ int main (int argc, char* argv[])
       switch (next_option){
       case 'q':
           query = optarg;
-          // printf("q=%c\n", query);
+          // printf("q=%s\n", query);
       case 'i':
       case 'v':
       case -1:
