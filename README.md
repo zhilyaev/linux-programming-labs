@@ -15,7 +15,7 @@
 - [x] [Подсчет числа процессов с заданным именем](count_by_pname)
 - [x] [Подсчет процессов в поддереве](count_cpid)
 - [ ] [Создание демона](daemon)
-- [ ] [Поиск ppid c использованием procfs](ppid_via_procfs)
+- [x] [Поиск ppid c использованием procfs](ppid_via_procfs)
 - [x] [Поиск пути к ppid=1 по заданному pid](ppid_of_ppid)
 
 ### Межпроцессорное взаимодействие
@@ -27,7 +27,7 @@
 
 ### Сети
 - [x] [Вывод ip адресов по hostname](get_ips)
-- [ ] [UDP log service]()
+- [x] [UDP log service](udp_log_svc)
 - [ ] [TCP string sorter]()
 
 ### Прочее
